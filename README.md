@@ -35,6 +35,10 @@ reorganized book materials on the [`1st-edition` branch][2].
 * [Chapter 14: Data Analysis Examples](http://nbviewer.ipython.org/github/pydata/pydata-book/blob/2nd-edition/ch14.ipynb)
 * [Appendix A: Advanced NumPy](http://nbviewer.ipython.org/github/pydata/pydata-book/blob/2nd-edition/appa.ipynb)
 
+## IPython Notebooks 2:
+* [Chapter 1: 基本语言结构、数据类型、基本运算、条件和循环、函数和模块等内容](https://github.com/creasy-pita/pythondata-book-note/blob/master/basic/ch01.ipynb)
+
+* [Chapter 2: internet data craw](https://github.com/creasy-pita/pythondata-book-note/blob/master/basic/ch02.ipynb)
 ## License
 
 ### Code
