@@ -38,11 +38,14 @@ reorganized book materials on the [`1st-edition` branch][2].
 ## IPython Notebooks 2:
 * [Chapter 1: 基本语言结构、数据类型、基本运算、条件和循环、函数和模块等内容](https://github.com/creasy-pita/pythondata-book-note/blob/master/basic/ch01.ipynb)
 * [Chapter 2: internet data crawl](https://github.com/creasy-pita/pythondata-book-note/blob/master/basic/ch02.ipynb)
-* [Chapter 4: dicts and list](https://github.com/creasy-pita/pythondata-book-note/blob/master/basic/chb04.ipynb)
+* [Chapter 3: dicts and list](https://github.com/creasy-pita/pythondata-book-note/blob/master/basic/chb03.ipynb)
+* [Chapter 4: nparray](https://github.com/creasy-pita/pythondata-book-note/blob/master/basic/chb04.ipynb)
 * [Chapter 14: Data Analysis Examples](https://github.com/creasy-pita/pythondata-book-note/blob/master/basic/chb14.ipynb)
+* [Chapter 16: Data Analysis Explore Examples](https://github.com/creasy-pita/pythondata-book-note/blob/master/basic/chb16.ipynb)
+
 ## Python  learn tips
 * basic concept learning
-* use google to ask tech and programe question
+* use google to ask tech and programe questions
 * code you code in the web page but not in the terminal that you can keep and share with others ,or in the resume ,and you can get motivate to go on.
 ## License
 
